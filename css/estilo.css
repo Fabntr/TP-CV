@@ -1,0 +1,63 @@
+body{
+	background-color: white;
+}
+
+
+
+.bordes{
+	margin-right: 4%;
+	margin-left: 4%;
+	margin-top: 0.5%;
+	margin-bottom: 0.5%;
+}
+
+.izquierda{
+	background-color: #959B9B;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.derecha{
+	background-color: #C9CECE;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+
+.barra{
+	background-color: #707575;
+	margin-top: 3%;
+}
+
+.info{
+	color: black;
+}
+
+.costado{
+	padding-right: 65%;
+}
+.nombre{
+	font-family: 'Archivo Narrow', sans-serif;
+	color: black;
+}
+
+.imgredonda{
+	width:250px;
+    height:250px;
+    border-radius:125px;
+    margin: 20px auto;
+}
+
+.tope{
+	margin-top: 10%;
+}
+
+h1{
+	color: #fffafa;	
+}
+
+
+
+b{
+	font-weight: bold;
+}
